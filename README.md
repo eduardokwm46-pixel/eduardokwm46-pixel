@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/eduardokwm46-pixel/eduardokwm46-pixel/main/header.svg" alt="Eduardo Cordeiro - Bots e sites personalizados" width="100%" />
+  <img src="https://raw.githubusercontent.com/eduardokwm46-pixel/eduardokwm46-pixel/main/header.svg?v=2" alt="Eduardo Cordeiro - Bots e sites personalizados" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/eduardokwm46-pixel/eduardokwm46-pixel/main/activity.svg" alt="Atividade no GitHub" width="100%" />
+  <img src="https://raw.githubusercontent.com/eduardokwm46-pixel/eduardokwm46-pixel/main/activity.svg?v=2" alt="Atividade no GitHub" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/eduardokwm46-pixel/eduardokwm46-pixel/main/stack.svg" alt="Serviços" width="100%" />
+  <img src="https://raw.githubusercontent.com/eduardokwm46-pixel/eduardokwm46-pixel/main/stack.svg?v=2" alt="Serviços" width="100%" />
 </p>
 
 ## Sobre
