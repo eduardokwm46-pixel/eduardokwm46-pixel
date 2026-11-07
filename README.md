@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/eduardokwm46-pixel/eduardokwm46-pixel/main/header.svg" alt="Eduardo - Desenvolvedor Full Stack" width="100%" />
+  <img src="https://raw.githubusercontent.com/eduardokwm46-pixel/eduardokwm46-pixel/main/header.svg" alt="Eduardo Cordeiro - Bots e sites personalizados" width="100%" />
 </p>
 
 <p align="center">
@@ -7,19 +7,19 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/eduardokwm46-pixel/eduardokwm46-pixel/main/stack.svg" alt="Ecossistema de tecnologias" width="100%" />
+  <img src="https://raw.githubusercontent.com/eduardokwm46-pixel/eduardokwm46-pixel/main/stack.svg" alt="Serviços" width="100%" />
 </p>
 
 ## Sobre
 
-Desenvolvedor Full Stack focado em construir aplicações web com qualidade, desempenho e código limpo. Estou sempre aprendendo e evoluindo, do front-end ao back-end.
+Sou o Eduardo, de Porto Velho, Rondônia. Crio **bots** e **sites personalizados** para empresas, com soluções sob medida que ajudam o seu negócio a automatizar tarefas e a ter uma presença profissional na internet.
 
-## Foco
+## O que eu faço
 
-- Desenvolvimento de aplicações web completas, da interface ao servidor
-- Código legível, testável e fácil de manter
-- Aprender novas tecnologias e aplicá-las em projetos reais
+- Bots personalizados para automatizar tarefas e atendimento
+- Sites personalizados, responsivos e modernos
+- Soluções sob medida para a necessidade de cada empresa
 
 ## Contato
 
-Quer conversar ou colaborar? Abra uma issue ou me siga aqui no GitHub.
+Quer um bot ou um site para a sua empresa? Me siga aqui no GitHub ou abra uma issue neste repositório.
