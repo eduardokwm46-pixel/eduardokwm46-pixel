@@ -1,16 +1,17 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/eduardokwm46-pixel/eduardokwm46-pixel/main/header.svg" alt="Eduardo - Desenvolvedor Full Stack" width="100%" />
+</p>
 
-<!--
-**eduardokwm46-pixel/eduardokwm46-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre
 
-Here are some ideas to get you started:
+Desenvolvedor Full Stack focado em construir aplicações web com qualidade, desempenho e código limpo. Estou sempre aprendendo e evoluindo, do front-end ao back-end.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Foco
+
+- Desenvolvimento de aplicações web completas, da interface ao servidor
+- Código legível, testável e fácil de manter
+- Aprender novas tecnologias e aplicá-las em projetos reais
+
+## Contato
+
+Quer conversar ou colaborar? Abra uma issue ou me siga aqui no GitHub.
