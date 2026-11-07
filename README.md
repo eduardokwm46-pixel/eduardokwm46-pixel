@@ -2,6 +2,14 @@
   <img src="https://raw.githubusercontent.com/eduardokwm46-pixel/eduardokwm46-pixel/main/header.svg" alt="Eduardo - Desenvolvedor Full Stack" width="100%" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/eduardokwm46-pixel/eduardokwm46-pixel/main/activity.svg" alt="Atividade no GitHub" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/eduardokwm46-pixel/eduardokwm46-pixel/main/stack.svg" alt="Ecossistema de tecnologias" width="100%" />
+</p>
+
 ## Sobre
 
 Desenvolvedor Full Stack focado em construir aplicações web com qualidade, desempenho e código limpo. Estou sempre aprendendo e evoluindo, do front-end ao back-end.
